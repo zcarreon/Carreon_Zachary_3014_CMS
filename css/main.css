@@ -1,0 +1,65 @@
+body {
+  margin: 0 auto;
+  background-image: url("../images/memphis-colorful.png");
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h3, p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.maintitle {
+  font-size: 30px;
+  text-align: center;
+}
+
+.filterNav li {
+  text-align: center;
+  display: inline;
+  color: black;
+  margin-right: 5px;
+}
+
+.movieTitle {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.movieYear {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.movieBlock {
+  margin: auto;
+  max-width: 140px;
+  margin-left: 5px;
+  margin-right: 5px;
+  float: left;
+}
+
+.thumbnail {
+  height: 200px;
+  width: auto;
+}
+
+.detailsPoster {
+  float: left;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.detailsTitle {
+  font-family: 'Raleway', sans-serif;
+  font-size: 48px;
+}
